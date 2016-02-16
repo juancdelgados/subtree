@@ -2,6 +2,6 @@
 
 2. segundo alice
 
-
-
 4. tercer alice
+
+3. primer commit bob
