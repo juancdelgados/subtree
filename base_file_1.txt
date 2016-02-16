@@ -3,4 +3,7 @@ initial commit
 first modification by alice
 
 common modification bob
+
 commmon modification alice
+
+modificación del repo1
